@@ -1,0 +1,5 @@
+CP exotic pg2.txt
+MV AX 1
+MV BX 1
+AD DX AX
+HT

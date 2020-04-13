@@ -1,0 +1,7 @@
+MF "plik1"
+OF "plik1"
+WF "plik1" "To_jest_string_testowy"
+WF "plik1" "_a_to_jest_druga_czesc_tekstu_testowego"
+RF "plik1" 10
+CF "plik1"
+HT

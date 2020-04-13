@@ -1,0 +1,7 @@
+MV AX 1 
+MV BX 1 
+MV CX 5 
+ML AX BX 
+IC BX DC CX
+JZ [23]
+HT
