@@ -2,8 +2,8 @@
 Simple operating system simulator, made as an university project
  
 Following features are included:
-* i-node flie mangement
-* paged on demand memory management
+* i-node flie management
+* demand paging memory management
 * virtual memory management with second chance page replacement algorithm
 * assembly program interpreter
 * text based interface
